@@ -1,21 +1,6 @@
 {
   "productos": [
     {
-      "id": 1,
-      "nombre": "Jugo de Zanahoria",
-      "precio": "31111"
-    },
-    {
-      "id": 2,
-      "nombre": "Jugo de Naranja",
-      "precio": "1"
-    },
-    {
-      "nombre": "Jugo de Naranja",
-      "precio": "300",
-      "id": 3
-    },
-    {
       "nombre": "Rib Eye 800g",
       "precio": "200",
       "id": 4
@@ -29,16 +14,6 @@
       "nombre": "Rib Eye 1kg",
       "precio": 500,
       "id": 6
-    },
-    {
-      "nombre": "jugo de mora",
-      "precio": 200,
-      "id": 7
-    },
-    {
-      "nombre": "jugo de toronja",
-      "precio": 150,
-      "id": 8
     }
   ]
 }
