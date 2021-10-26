@@ -7,12 +7,12 @@
     },
     {
       "nombre": "Jugo de Fresa",
-      "precio": "200",
+      "precio": "250",
       "id": 5
     },
     {
       "nombre": "Rib Eye 1kg",
-      "precio": 500,
+      "precio": "300",
       "id": 6
     }
   ]
