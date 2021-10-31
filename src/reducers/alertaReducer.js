@@ -7,7 +7,7 @@ import {
 const initialState = {
   alerta: null
 }
-
+// eslint-disable-next-line
 export default function( state = initialState, action){
   switch(action.type){
 
@@ -15,6 +15,12 @@ export default function( state = initialState, action){
       return {
         ...state,
         alerta: action.payload
+      }
+    
+    case OCULTAR_ALERTA:
+      return {
+        ...state,
+        alerta: null
       }
     default:
       return state;

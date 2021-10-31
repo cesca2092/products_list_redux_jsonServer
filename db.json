@@ -14,6 +14,11 @@
       "nombre": "Rib Eye 1kg",
       "precio": "300",
       "id": 6
+    },
+    {
+      "nombre": "Cebolla",
+      "precio": 200,
+      "id": 7
     }
   ]
 }
